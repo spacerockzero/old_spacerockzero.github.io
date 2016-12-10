@@ -36,19 +36,19 @@ gulp.task('css', function(){
     .pipe(sass(sassConfig).on('error', sass.logError))
     // .pipe(minifyCSS(cssConfig))
     .pipe(concat('styles.min.css'))
-    .pipe(gulp.dest('assets/css/dist'));
+    .pipe(gulp.dest('assets/css'));
 })
 
 gulp.task('js', function(){
   return gulp.src(jsSrc)
     .pipe(concat('bundle.min.js'))
     .pipe(uglify(uglifyConfig))
-    .pipe(gulp.dest('assets/js/dist'));
+    .pipe(gulp.dest('assets/js'));
 })
 
 gulp.task('watch', function() {
-  gulp.watch(['assets/js/*.js','!assets/js/dist/bundle.min.js'], ['js']);
-  gulp.watch(['assets/css/*.css','!assets/css/dist/screen.css'], ['css']);
+  gulp.watch(['assets/js/*.js','!assets/js/bundle.min.js'], ['js']);
+  gulp.watch(['assets/css/*.css','!assets/css/styles.min.css'], ['css']);
 })
 
 gulp.task('dev', ['css', 'js', 'watch']);
