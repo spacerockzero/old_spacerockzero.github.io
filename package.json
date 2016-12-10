@@ -1,0 +1,31 @@
+{
+  "name": "casper-jekyll-high-perf",
+  "version": "1.0.0",
+  "description": "a high-perf version of kasper, a jekyll port of the ghost blog default theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devcontent": "jekyll serve",
+    "devui": "gulp dev",
+    "build": "gulp && jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacerockzero/casper-jekyll-high-perf.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacerockzero/casper-jekyll-high-perf/issues"
+  },
+  "homepage": "https://github.com/spacerockzero/casper-jekyll-high-perf#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "prefetch": "^0.2.1"
+  }
+}
