@@ -2,7 +2,7 @@
 layout: post
 title:  "Speed, Performance, and Human Perception"
 date:   2015-12-19
-categories: performance webperf perf
+categories: performance
 ---
 
 *Notes from Ilya Grigorik's talk at O'Reilly Fluent conference 2014*

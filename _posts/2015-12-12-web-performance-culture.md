@@ -2,7 +2,7 @@
 layout: post
 title:  "Web Performance Culture"
 date:   2015-12-12
-categories: performance perf webperf culture
+categories: performance culture
 ---
 
 If you want to improve web performance at your company, creating a **Performance Culture** is the best way to maintain it. This video explains how to do this in the best way I've seen yet. Check it out! (My Summary notes below)

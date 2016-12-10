@@ -2,7 +2,7 @@
 layout: post
 title:  "Run Baseline Performance Tests"
 date:   2016-01-19
-categories: blog-performance-series performance perf webperf
+categories: blog-performance-series
 ---
 
 **Blog Performance Series, part 2**

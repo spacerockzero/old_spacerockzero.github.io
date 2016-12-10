@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtual Stand-up Meetings"
 date:   2016-04-22
-categories: meetings process management
+categories: process
 tags: agile standup stand-up virtual standup virtual stand-up efficiency virtual async standup virtual async stand-up async standup async stand-up
 ---
 

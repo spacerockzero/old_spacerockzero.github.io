@@ -2,7 +2,7 @@
 layout: post
 title:  "Install Free Ghost Blog on Heroku"
 date:   2016-01-18
-categories: blog-performance-series blog performance perf webperf
+categories: blog-performance-series
 ---
 
 **Blog Performance Series, Part 1**
