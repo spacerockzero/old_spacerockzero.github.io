@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Virtual Stand-up Meetings"
 date:   2013-11-10 10:18:00
-categories: Thriller Comedy Horror
+categories: meetings process management
+tags: agile standup stand-up virtual standup virtual stand-up efficiency virtual async standup virtual async stand-up async standup async stand-up
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
