@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When to Use Cookies and LocalStorage"
-date:   2013-11-10 10:18:00
+date:   2016-03-01
 categories: best-practices
 ---
 

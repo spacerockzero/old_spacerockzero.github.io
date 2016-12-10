@@ -15,6 +15,8 @@ gems: [jekyll-paginate]
 url:            'https://blog.jakobanderson.com'
 author:         'Jakob Anderson'
 
+permalink: /:title/
+
 defaults:
   -
     scope:
