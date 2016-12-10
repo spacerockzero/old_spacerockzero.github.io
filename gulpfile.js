@@ -1,29 +1,29 @@
 /* DEPS */
 var gulp      = require('gulp');
 var sass      = require('gulp-sass');
-var minifyCSS = require('gulp-minify-css');
+var minifyCSS = require('gulp-clean-css');
 var uglify    = require('gulp-uglify');
 var concat    = require('gulp-concat');
 var watch     = require('gulp-watch');
 
 /* CONFIGS */
 var jsSrc = [
-  'assets/js/index.js',
-  'node_modules/prefetch/prefetch.js',
-  'assets/js/app.js'
+  // 'assets/js/index.js',
+  // 'node_modules/prefetch/prefetch.js',
+  // 'assets/js/app.js'
 ];
 
 /* SASS config */
 var sassConfig = {
-  outputStyle: 'compressed'
+  // outputStyle: 'compressed'
 };
 
 /* MINIFY CSS CONFIG */
 var cssConfig = {
-  compatibility: '',
+  // compatibility: '',
   // advanced: true,
   aggressiveMerging: true,
-  debug: true
+  // debug: true
 };
 
 /* UGLIFYJS CONFIG */
@@ -32,10 +32,11 @@ var uglifyConfig = {
 };
 
 gulp.task('css', function(){
-  return gulp.src(['assets/css/screen.css'])
-    .pipe(sass(sassConfig).on('error', sass.logError))
-    // .pipe(minifyCSS(cssConfig))
+  // return gulp.src(['assets/css/screen.css'])
+  return gulp.src(['assets/css/ghost.css'])
+    // .pipe(sass(sassConfig).on('error', sass.logError))
     .pipe(concat('styles.min.css'))
+    .pipe(minifyCSS(cssConfig))
     .pipe(gulp.dest('assets/css'));
 })
 
