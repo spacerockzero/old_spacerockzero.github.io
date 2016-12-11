@@ -16,6 +16,7 @@ permalink: /:title/
 url:            'https://blog.jakobanderson.com'
 author:         'Jakob Anderson'
 author_description: 'Full-Stack JavaScript Developer, Web Performance Champion'
+# author_thumb:   true
 
 permalink: /:title/
 

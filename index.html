@@ -46,7 +46,9 @@ about: 'about'
         </section>
         <footer class="post-meta">
             {% if site.author %}
-                <img class="author-thumb" src="/assets/images/jakob-24.jpg" alt="Jakob Anderson" nopin="nopin" />
+                {% if site.author_thumb %}
+                    <img class="author-thumb" src="/assets/images/jakob-24.jpg" alt="Jakob Anderson" nopin="nopin" />
+                {% endif %}
                 {{ site.author }}
             {% endif %}
             {% if post.categories.size > 0 %} 
