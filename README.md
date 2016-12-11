@@ -1,7 +1,7 @@
 # Casper Jekyll High-Perf
 
 > This is a high-performance port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it. Goal was to get the page load under ~14Kb. Lemme know how I did.
+Feel free to fork, change, modify and re-use it. Goal was to get the page load under ~14Kb after gzip. Lemme know how I did.
 
 ## Installation
 
@@ -32,7 +32,9 @@ Build page into `_site` folder
 
 ## Screenshots
 
-
+![Index - iPad](assets/images/index-ipad.png)
+![Index - iPhone](assets/images/index-iphone.png)
+![Post - iPhone](assets/images/post-iphone.png)
 
 
 ## Thanks
