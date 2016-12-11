@@ -1,7 +1,11 @@
 # Casper Jekyll High-Perf
 
 > This is a high-performance port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it. Goal was to get the page load under ~14Kb after gzip. Lemme know how I did.
+
+Feel free to fork, change, modify and re-use it. Goal was to get the page load under ~14Kb after gzip. Lemme know how I did.  
+Works with gihub.io pages, just push it to master of your {githubname}.github.io repo  
+If you crave more speed, uncomment the `/assets/js/bundle.min.js` script tag on default.html and it will 
+prefetch pages when users hover over links, via [Prefetch, by Joe Podwys](https://www.npmjs.com/package/prefetch) 
 
 ## Installation
 
@@ -15,11 +19,17 @@ Feel free to fork, change, modify and re-use it. Goal was to get the page load u
 
 Build page and start local web server
 
-    npm run dev
+```
+# in two different tabs, since they both run a watch process
+jekyll serve
+gulp dev
+```
 
 Build page into `_site` folder
 
-    npm run build
+```
+jekyll build && gulp
+```
 
 ## casper-jekyll-high-perf theme includes
 
@@ -32,9 +42,14 @@ Build page into `_site` folder
 
 ## Screenshots
 
-![Index - iPad](assets/images/index-ipad.jpg)
-![Index - iPhone](assets/images/index-iphone.jpg)
-![Post - iPhone](assets/images/post-with-cover-iphone.jpg)
+![Index - iPad](assets/images/index-ipad.jpg)  
+Index - iPad  
+
+![Index - iPhone](assets/images/index-iphone.jpg)  
+Index - iPhone
+
+![Post - iPhone](assets/images/post-with-cover-iphone.jpg)  
+Post with cover - iPhone  
 
 
 ## Thanks
