@@ -1788,6 +1788,8 @@ body.nav-opened .nav {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding: 1em;
+    text-align: center;
 }
 .main-header > header > h1 {
     text-align: center;
