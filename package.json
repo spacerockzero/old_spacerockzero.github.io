@@ -4,10 +4,7 @@
   "description": "a high-perf version of kasper, a jekyll port of the ghost blog default theme",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "devcontent": "jekyll serve",
-    "devui": "gulp dev",
-    "build": "gulp && jekyll build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

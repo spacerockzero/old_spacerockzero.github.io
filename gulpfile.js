@@ -8,9 +8,9 @@ var watch     = require('gulp-watch');
 
 /* CONFIGS */
 var jsSrc = [
-  // 'assets/js/index.js',
-  // 'node_modules/prefetch/prefetch.js',
-  // 'assets/js/app.js'
+  'assets/js/index.js',
+  'node_modules/prefetch/prefetch.js',
+  'assets/js/app.js'
 ];
 
 /* SASS config */
@@ -32,9 +32,7 @@ var uglifyConfig = {
 };
 
 gulp.task('css', function(){
-  // return gulp.src(['assets/css/unused/screen.css'])
   return gulp.src(['assets/css/ghost.css'])
-    // .pipe(sass(sassConfig).on('error', sass.logError))
     .pipe(concat('styles.min.css'))
     .pipe(minifyCSS(cssConfig))
     .pipe(gulp.dest('assets/css'));
