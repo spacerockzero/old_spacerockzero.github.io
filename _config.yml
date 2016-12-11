@@ -10,6 +10,7 @@ baseurl: /
 domain_name: 'https://blog.jakobanderson.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
+permalink: /:title/
 
 # Details for the RSS feed generator
 url:            'https://blog.jakobanderson.com'

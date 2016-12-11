@@ -32,7 +32,7 @@ var uglifyConfig = {
 };
 
 gulp.task('css', function(){
-  // return gulp.src(['assets/css/screen.css'])
+  // return gulp.src(['assets/css/unused/screen.css'])
   return gulp.src(['assets/css/ghost.css'])
     // .pipe(sass(sassConfig).on('error', sass.logError))
     .pipe(concat('styles.min.css'))
