@@ -32,9 +32,9 @@ Build page into `_site` folder
 
 ## Screenshots
 
-![Index - iPad](assets/images/index-ipad.png)
-![Index - iPhone](assets/images/index-iphone.png)
-![Post - iPhone](assets/images/post-iphone.png)
+![Index - iPad](assets/images/index-ipad.jpg)
+![Index - iPhone](assets/images/index-iphone.jpg)
+![Post - iPhone](assets/images/post-with-cover-iphone.jpg)
 
 
 ## Thanks
