@@ -7,13 +7,13 @@ highlighter: pygments
 logo: false
 paginate: 13
 baseurl: /
-domain_name: 'https://blog.jakobanderson.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://jakobanderson.com'
+google_analytics: 'UA-11240242-6'
 gems: [jekyll-paginate]
 permalink: /:title/
 
 # Details for the RSS feed generator
-url:            'https://blog.jakobanderson.com'
+url:            'https://jakobanderson.com'
 author:         'Jakob Anderson'
 author_description: 'Full-Stack JavaScript Developer, Web Performance Champion'
 # author_thumb:   true
