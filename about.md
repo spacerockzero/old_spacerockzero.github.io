@@ -16,6 +16,11 @@ and people around me with what I learn. I believe that code is craft,
 and I passionately advocate for the user's experience.
 
 Find me on the interwebs: 
-[Twitter](https://twitter.com/jakob_anderson) 
-[LinkedIn](https://www.linkedin.com/in/jakobanderson) 
-[Google+](https://plus.google.com/100963213910471529712)
+
+- [Twitter](https://twitter.com/jakob_anderson) 
+- [LinkedIn](https://www.linkedin.com/in/jakobanderson) 
+- [Google+](https://plus.google.com/100963213910471529712)
+- [aboutme](https://about.me/jakobanderson)
+- [slides.com](https://slides.com/jakobanderson)
+- [YouTube](https://www.youtube.com/user/spacerockzero)
+- [github](https://github.com/spacerockzero)
