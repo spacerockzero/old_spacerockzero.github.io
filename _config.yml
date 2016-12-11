@@ -14,6 +14,7 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'https://blog.jakobanderson.com'
 author:         'Jakob Anderson'
+author_description: 'Full-Stack JavaScript Developer, Web Performance Champion'
 
 permalink: /:title/
 
