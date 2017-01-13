@@ -4,6 +4,9 @@ title:  "Virtual Stand-up Meetings"
 date:   2016-04-22
 categories: process
 tags: agile standup stand-up virtual standup virtual stand-up efficiency virtual async standup virtual async stand-up async standup async stand-up
+excerpt: "There should be as little process as is helpful in your work life. \
+We already don't feel we have enough time to get projects done on time, and \
+never enough to work on improving our technical skills."
 ---
 
 There should be as little process as is helpful in your work life. We already don't feel we have enough time to get projects done on time, and never enough to work on improving our technical skills.
@@ -31,7 +34,7 @@ That's it. This works as well or better than communicating physically in a room 
 
 Further notes and helpful hints:
 
-1. If you want to follow the formal pattern for your standup message, you could start with these:
+1) If you want to follow the formal pattern for your standup message, you could start with these:
 
   - "What did I do yesterday?"  
   - "What will I do today?"  
@@ -39,4 +42,4 @@ Further notes and helpful hints:
   - List any calendar items or changes in availability. It may be helpful for scanning to denote these different items with emojis if you like. (I use :calendar: for calendar items, and :weight_lifter: for current work items). 
   - Also, be sure to send non-blocking calendar invites your teammates can mark as "tentative/maybe", so they can also refer to their calendar when asked about teammate's schedules
 
-2. If you need afterclass sessions that don't involve the whole team, try to hold them as new chat groups, inviting only those who need to be involved, down to 1v1 chats when needed. This way you don't interrupt the rest of the team, and you keep the standup-time area of the chat log much cleaner for future reference and visual parsing.
+2) If you need afterclass sessions that don't involve the whole team, try to hold them as new chat groups, inviting only those who need to be involved, down to 1v1 chats when needed. This way you don't interrupt the rest of the team, and you keep the standup-time area of the chat log much cleaner for future reference and visual parsing.

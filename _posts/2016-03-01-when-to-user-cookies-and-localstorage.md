@@ -3,6 +3,9 @@ layout: post
 title:  "When to Use Cookies and LocalStorage"
 date:   2016-03-01
 categories: best-practices
+excerpt: "There are good practices and bad ones when it comes to persisting data \
+across parts of a web stack, whether you want to use cookies, localStorage, \
+sessionStorage, or whatever else. I go through some of the use cases, and their best practices."
 ---
 
 Problem: I need to persist data.

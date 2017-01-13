@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Notes on 'Bill Scott: Bringing Change to Life'"
+title:  "'Bill Scott: Bringing Change to Life'"
 date:   2017-01-12
 categories: change
-tags: change bill scott paypal netflix agile lean leanux design 
+tags: change bill scott paypal netflix agile lean leanux design
+excerpt: "Bill Scott teaches a master class on getting stubborn, backwards-cultured companies to adopt faster, more iterative ways to learn and deliver the right value to their users, both at Netflix and at PayPal. Here are some notes I took on Bill Scott's presentation video: \"Bringing Change to Life\"."
 ---
 
 > Software is easy, people are hard.
@@ -13,6 +14,7 @@ companies to adopt faster, more iterative ways to learn and deliver the right va
 both at Netflix and at PayPal.
 
 Here are some notes I took on Bill Scott's presentation video: "Bringing Change to Life".
+
 
 # Bill Scott - Bringing Change to Life
 <div class="flex-video">

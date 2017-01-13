@@ -3,6 +3,11 @@ layout: post
 title:  "Install Free Ghost Blog on Heroku"
 date:   2016-01-18
 categories: blog-performance-series
+excerpt: "[video] Ghost is a blog engine built on NodeJS, that is super simple, fast, \
+and reliable. If you want a blog built with performance on the mind that is super-easy \
+to set up and fairly optimized out of the box, Ghost is a pretty good option right now. \
+You can also host your own deploy for free on Heroku's free platform using a pushbutton \
+deploy like what I'm about to show you."
 ---
 
 **Blog Performance Series, Part 1**

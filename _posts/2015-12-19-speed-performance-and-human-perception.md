@@ -3,6 +3,10 @@ layout: post
 title:  "Speed, Performance, and Human Perception"
 date:   2015-12-19
 categories: performance
+excerpt: "“Performance” means many different things to different people full-stack perf is \
+complicated is there such a thing as “fast enough”? context matters: — 10fps matters in games, \
+10fps matters much less in e-commerce Devs often forget about the wetware running their ui’s \
+(human brain). Notes from Ilya's talk at Fluent 2014"
 ---
 
 *Notes from Ilya Grigorik's talk at O'Reilly Fluent conference 2014*

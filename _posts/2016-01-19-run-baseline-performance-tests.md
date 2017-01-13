@@ -3,6 +3,10 @@ layout: post
 title:  "Run Baseline Performance Tests"
 date:   2016-01-19
 categories: blog-performance-series
+excerpt: "Welcome to part 2 of my blog performance series. I'm Jakob Anderson, \
+and I'm going to show you how to run some baseline performance tests on your blog. \
+This is where we find out how your initial performance is, so we can tell where you \
+currently stand, and whether performance has improved after we've changed things."
 ---
 
 **Blog Performance Series, part 2**

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About me 
+title: I'm Jakob Anderson. I fight for the users 
 ---
 
-# I'm Jakob Anderson. I fight for the users
 ![Jakob Anderson](/assets/images/jakob.jpg)
 
 I'm a full-stack JavaScript Developer, Web Performance Champion, 

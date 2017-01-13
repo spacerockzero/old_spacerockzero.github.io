@@ -3,6 +3,11 @@ layout: post
 title:  "Why Should We Work on Web Performance?"
 date:   2015-11-29
 categories: performance
+excerpt: "It affects conversions. \
+It makes it possible to get your product into low-bandwidth and mobile-only areas. \
+Users get more work done before running out of patience or time. \
+There's lots of evidence and studies for all of this."
+
 ---
 
 **tldr;**
