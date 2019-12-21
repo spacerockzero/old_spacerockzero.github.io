@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: jakobanderson.com
-Token: 466405059eeb1a6505ee46c7bc1c48e98b14376e04aee2e0c3b014c7a4d231b6
