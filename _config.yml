@@ -12,7 +12,7 @@ google_analytics: 'UA-11240242-6'
 gems: [jekyll-paginate]
 permalink: /:title/
 
-include: /.well-known/
+include: [".well-known"]
 
 # Details for the RSS feed generator
 url:            'https://jakobanderson.com'
